@@ -37,7 +37,9 @@ CyberShield is a redesigned mobile application interface focused on cybersecurit
 ![Dashboard](ThreatMonitoring.png)
 ![Dashboard](Analytics.png)
 ![Dashboard](Reports.png) 
-![Dashboard](profile.png)
+![Dashboard](Profile.png)
+
+# linkedin : https://www.linkedin.com/posts/pirthika-annadurai-7101662a4_hexsoftware-internship-uiux-ugcPost-7471192423562391552-qUH_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAElZnnwBiJx75khj7eg6vZOHoBRoR6BqHmg
 
 
 # Author
